@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+pandas
+numpy
+nltk
+joblib
+imblearn
+matplotlib
+seaborn
+textblob
+plotly
+cufflinks
+wordcloud
